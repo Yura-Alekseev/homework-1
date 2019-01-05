@@ -1,0 +1,53 @@
+* {
+    background-color: #f3f3f3;
+}
+
+.wrapper {
+    text-align: left;
+    display: block;
+    width: 40%;
+    padding-bottom: 287px;
+    font-family: Arial, serif;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 50px 0 30px;
+    font-size: 36px
+}
+
+.photo {
+    margin: 30px auto 23px;
+    border: 1px solid #8f8f8f;
+    height: 200px;
+    display:block;
+}
+
+span {
+    display: block;
+}
+
+.line {
+    margin: 20px 0;
+    border: 1px solid #c7c9c9;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contacts {
+    margin: 25px 0 20px 28px;
+}
+
+a {
+    font-style: italic;
+}
+
+
+
+
